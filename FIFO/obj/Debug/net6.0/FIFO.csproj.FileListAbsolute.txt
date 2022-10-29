@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\bin\Debug\net6.0\FIFO.exe
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\bin\Debug\net6.0\FIFO.deps.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\bin\Debug\net6.0\FIFO.runtimeconfig.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\bin\Debug\net6.0\FIFO.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\bin\Debug\net6.0\FIFO.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\refint\FIFO.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\FIFO.genruntimeconfig.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\Exercise2\FIFO\obj\Debug\net6.0\ref\FIFO.dll
